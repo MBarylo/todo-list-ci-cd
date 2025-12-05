@@ -73,6 +73,10 @@ todo-list-template/
 - **Vitest** - Testing framework
 - **React Testing Library** - Testing utilities
 
+# TODO List Project
+
+(added for deploy)
+
 ## License
 
 MIT
